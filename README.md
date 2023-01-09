@@ -4,7 +4,8 @@ This folder provides the supporting material and starter code for the "ND9991 - 
 2. supporting_material - It contains the essential files (.yml, .json, .bat, .sh, and .jpeg) that were referred in the different lessons of this course.
 
 In addition to the current repo, there is one more repository, [nd9991-c2-Infrastructure-as-Code-v1-Exercises_Solution](https://github.com/udacity/nd9991-c2-Infrastructure-as-Code-v1-Exercises_Solution) that contains the solution to the exercises and video demos.  
-
+projectoutputs
+http://devop-webap-1rucjuo98ty55-765368377.us-west-2.elb.amazonaws.com/
 ### Dependencies
 ##### 1. AWS account
 You would require to have an AWS account to be able to build cloud infrastructure.
