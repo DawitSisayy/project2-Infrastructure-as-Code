@@ -6,7 +6,7 @@ In this project, I have deployed web servers for a highly available web app usin
 
 ### Infrastructure Diagram 
 
-
+![](https://github.com/DawitSisayy/project2-Infrastructure-as-Code/blob/main/Infrastructure%20diagram.png)
 
 
 
