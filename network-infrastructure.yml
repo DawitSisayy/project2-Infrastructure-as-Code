@@ -243,9 +243,10 @@ Resources:
           echo "<h1>It works! Udagram, Udacity</h1>" > index.html
           
       ImageId: ami-03f8756d29f0b5f21
+      # ami-03f8756d29f0b5f21
       SecurityGroups:
         - Ref: WebServerSecGroup
-      InstanceType: t2.micro
+      InstanceType: t2.small
       BlockDeviceMappings:
         - DeviceName: '/dev/sdk'
           Ebs:
