@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Project 2 - Deploy a High-Availability Web App using CloudFormation
 In this project, I have deployed web servers for a highly available web app using CloudFormation.  I have included the deployment screenshots and output url as well as infrastructure diagram in my repo. 
 
