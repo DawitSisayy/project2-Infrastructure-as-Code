@@ -6,7 +6,7 @@ In this project, I have deployed web servers for a highly available web app usin
 
 ### Infrastructure Diagram 
 
-
+![](https://github.com/DawitSisayy/project2-Infrastructure-as-Code/blob/main/Infrastructure%20diagram.png)
 
 
 
@@ -17,4 +17,8 @@ In this project, I have deployed web servers for a highly available web app usin
 The IP address of the load balancer
 
 http://devop-webap-1rucjuo98ty55-765368377.us-west-2.elb.amazonaws.com/
+
+projectoutput
+
+![](https://github.com/DawitSisayy/project2-Infrastructure-as-Code/blob/main/deployment_screenshots/Working%20Test.PNG)
 
